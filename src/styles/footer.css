@@ -1,0 +1,4 @@
+.footer {
+    @apply bg-gray-100 dark:bg-slate-900 py-6 text-center text-sm text-gray-500 dark:text-slate-400 transition-colors;
+  }
+  

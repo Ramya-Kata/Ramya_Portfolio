@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Customer Subscription Management System (Microservices-Based)",
+      "description": "A production-ready subscription system built with Spring Boot microservices, React dashboards, and cloud-native deployment. Features role-based access, API Gateway, RabbitMQ events, and secure, scalable architecture.",
+      "techStack": ["Spring Boot", "React", "RabbitMQ", "JWT", "Kubernetes", "PostgreSQL", "AWS EKS", "CI/CD"],
+      "link": "https://github.com/yourusername/subscription-system"
+    },
+    {
+      "title": "Customer Feedback & Management Console (Java)",
+      "description": "A multithreaded Java console app for collecting and analyzing structured customer feedback. Used JDBC for data persistence and automated exports in TXT, CSV, and JSON formats.",
+      "techStack": ["Java", "JDBC", "MySQL", "Multithreading", "Collections", "OOP"],
+      "link": "https://github.com/yourusername/feedback-manager"
+    },
+    {
+      "title": "Artificial Ink - GAN for Handwritten Digit Generation",
+      "description": "Implemented a GAN using TensorFlow and Keras to generate realistic handwritten digits. Trained on MNIST dataset with real-time visualizations and FID score evaluations.",
+      "techStack": ["Python", "GAN", "TensorFlow", "Keras", "Matplotlib"],
+      "link": "https://github.com/yourusername/artificial-ink"
+    },
+    {
+      "title": "Dynamic Note-Taking Web App with Node.js",
+      "description": "Built a web app for user login, registration, and note-saving using Node.js, HTML, and CSS. Achieved a 90% satisfaction rate from academic review.",
+      "techStack": ["Node.js", "Express", "JavaScript", "HTML", "CSS"],
+      "link": "https://github.com/yourusername/note-app"
+    }
+    
+  ]
+  

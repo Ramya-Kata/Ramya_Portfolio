@@ -1,0 +1,27 @@
+[
+    {
+      "category": "Backend",
+      "skills": ["Java", "Spring Boot", "Hibernate", "Node.js", "Express.js", "FastAPI", "REST APIs"]
+    },
+    {
+      "category": "Frontend",
+      "skills": ["React.js", "TypeScript", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"]
+    },
+    {
+      "category": "Cloud & DevOps",
+      "skills": ["AWS", "Azure", "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions"]
+    },
+    {
+      "category": "Databases",
+      "skills": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "DynamoDB"]
+    },
+    {
+      "category": "Testing & Performance",
+      "skills": ["JUnit", "Mockito", "Cypress", "Selenium", "Playwright", "Load Testing"]
+    },
+    {
+      "category": "Tools & Workflow",
+      "skills": ["Git", "Maven", "Linux/Unix", "JIRA", "Agile", "CI/CD"]
+    }
+  ]
+  

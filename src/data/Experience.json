@@ -1,0 +1,47 @@
+[
+    {
+      "company": "Wipro",
+      "role": "Software Engineer",
+      "duration": "Dec 2023 – Present",
+      "location": "Remote, USA",
+      "tasks": [
+        "Developed scalable backend services using Spring Boot and Hibernate, reducing processing time by 30%.",
+        "Implemented RESTful APIs for high-traffic systems, supporting 400K+ users with 25% faster response times.",
+        "Refactored legacy systems and integrated Spring Security, reducing unauthorized access by 40%.",
+        "Integrated Apache Kafka for real-time data streaming, improving data speed by 20%.",
+        "Led monolith-to-microservices migration using Spring Cloud, increasing uptime by 30%.",
+        "Built Azure Kubernetes solutions with auto-scaling, cutting infrastructure costs by 25%.",
+        "Automated CI/CD with Jenkins, Docker, and Kubernetes, reducing release times by 40%."
+      ]
+    },
+    {
+      "company": "Accenture",
+      "role": "Software Developer",
+      "duration": "Aug 2020 – Jul 2023",
+      "location": "India",
+      "tasks": [
+        "Built and optimized APIs using Node.js, Express.js, and GraphQL for 500K users, reducing response time by 30%.",
+        "Re-architected infrastructure with Docker and Kubernetes to support high-load scaling.",
+        "Improved query performance in PostgreSQL/MySQL by 35% through indexing and optimization.",
+        "Automated ETL pipelines with FastAPI and Python, reducing manual effort by 60%.",
+        "Led cloud-based deployments on AWS (Lambda, EC2, S3), increasing scalability by 40%.",
+        "Enhanced security with OAuth2 and JWT, cutting unauthorized access by 40%.",
+        "Streamlined CI/CD with Jenkins, GitHub Actions, AWS CodePipeline — 40% faster releases."
+      ]
+    },
+    {
+      "company": "Accenture",
+      "role": "Junior Software Developer",
+      "duration": "Aug 2020 – Jul 2021",
+      "location": "India",
+      "tasks": [
+        "Built responsive web interfaces using React.js, improving performance by 30%.",
+        "Developed high-performance RESTful APIs, enabling backend support for 500K+ users.",
+        "Collaborated in Agile sprints, accelerating delivery speed by 20%.",
+        "Automated workflows with Python and AWS Lambda, cutting manual work by 50%.",
+        "Scaled infrastructure on AWS (Lambda, EC2, S3), increasing service availability by 35%.",
+        "Facilitated Agile meetings and improved team velocity by 15%."
+      ]
+    }
+  ]
+  

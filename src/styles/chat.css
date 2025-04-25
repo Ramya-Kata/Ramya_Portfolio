@@ -1,0 +1,51 @@
+/* Chat icon button */
+.chat-button {
+    @apply fixed bottom-6 right-6 
+      bg-blue-600 text-white 
+      p-4 rounded-full 
+      shadow-lg 
+      hover:bg-blue-700 
+      transition 
+      z-50;
+  }
+  
+  /* Chat form container */
+  .chat-form {
+    @apply fixed bottom-24 right-6 
+      w-80 
+      bg-white dark:bg-slate-900 
+      text-gray-800 dark:text-white 
+      p-4 
+      rounded-xl 
+      shadow-xl 
+      z-50 
+      border border-gray-300 dark:border-slate-700;
+  }
+  
+  /* Form elements */
+  .chat-form h2 {
+    @apply text-lg font-semibold mb-2 text-blue-700 dark:text-blue-300;
+  }
+  
+  .chat-form input,
+  .chat-form textarea {
+    @apply w-full mb-2 px-3 py-2 border rounded;
+  }
+  
+  .chat-form textarea {
+    @apply resize-none;
+  }
+  
+  /* Form buttons */
+  .chat-form .form-actions {
+    @apply flex justify-between;
+  }
+  
+  .chat-form button[type="submit"] {
+    @apply bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700;
+  }
+  
+  .chat-form button[type="button"] {
+    @apply text-gray-600 dark:text-gray-300 hover:underline;
+  }
+  

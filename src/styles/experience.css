@@ -1,0 +1,118 @@
+/* Section wrapper */
+.experience-section {
+    @apply px-6 md:px-20 py-16 transition-all text-gray-900 dark:text-white;
+  }
+  
+  .experience-title {
+    @apply text-3xl font-bold mb-12 text-center;
+  }
+  
+  /* Timeline base */
+  .timeline {
+    position: relative;
+    margin: 0 auto;
+    padding: 2rem 0;
+    max-width: 1000px;
+  }
+  
+  .timeline::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2px;
+    background-color: #cbd5e1; /* slate-300 */
+    z-index: 0;
+  }
+  
+  /* Timeline entry base */
+  .timeline-entry {
+    position: relative;
+    width: 50%;
+    padding: 1.5rem 2rem;
+  }
+  
+  /* Alternating positions */
+  .timeline-entry.left {
+    left: 0;
+    padding-right: 2.5rem;
+  }
+  
+  .timeline-entry.right {
+    left: 50%;
+    padding-left: 2.5rem;
+  }
+  
+  /* Timeline dot */
+  .timeline-dot {
+    position: absolute;
+    top: 1.5rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 1rem;
+    height: 1rem;
+    background-color: #6366f1; /* indigo-500 */
+    border-radius: 9999px;
+    border: 3px solid white;
+    z-index: 10;
+  }
+  
+  .dark .timeline-dot {
+    border-color: #1e293b; /* dark bg */
+  }
+  
+  /* Experience card styling */
+  .experience-card {
+    @apply bg-white dark:bg-slate-800 text-slate-900 dark:text-white p-6 rounded-xl shadow-md transition-all duration-300 ease-in-out;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: 460px;
+    margin: 0 auto;
+  }
+  
+  .experience-role {
+    @apply text-xl font-semibold;
+  }
+  
+  .experience-meta,
+  .experience-duration {
+    @apply text-sm text-slate-600 dark:text-slate-400;
+  }
+  
+  .experience-tasks {
+    @apply mt-4 list-disc list-inside space-y-2 text-sm text-slate-700 dark:text-slate-300;
+  }
+  
+  /* Highlight on expand */
+  .timeline-entry.expanded .experience-card {
+    @apply bg-indigo-50 dark:bg-slate-700 shadow-lg;
+  }
+  
+  /* Mobile adjustments */
+  @media (max-width: 768px) {
+    .timeline::before {
+      left: 1rem;
+    }
+  
+    .timeline-entry,
+    .timeline-entry.left,
+    .timeline-entry.right {
+      width: 100%;
+      left: 0;
+      padding: 1rem 1rem 2rem 2.5rem;
+    }
+  
+    .timeline-dot {
+      left: 1rem;
+      transform: translateY(-50%);
+    }
+  
+    .experience-card {
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+    }
+  }
+  

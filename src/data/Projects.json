@@ -3,13 +3,13 @@
       "title": "Customer Subscription Management System (Microservices-Based)",
       "description": "A production-ready subscription system built with Spring Boot microservices, React dashboards, and cloud-native deployment. Features role-based access, API Gateway, RabbitMQ events, and secure, scalable architecture.",
       "techStack": ["Spring Boot", "React", "RabbitMQ", "JWT", "Kubernetes", "PostgreSQL", "AWS EKS", "CI/CD"],
-      "link": "https://github.com/Ramya-Kata/subscription-system"
+      "link": "https://github.com/Ramya-Kata/Customer-Feedback-System.git"
     },
     {
       "title": "Customer Feedback & Management Console (Java)",
       "description": "A multithreaded Java console app for collecting and analyzing structured customer feedback. Used JDBC for data persistence and automated exports in TXT, CSV, and JSON formats.",
       "techStack": ["Java", "JDBC", "MySQL", "Multithreading", "Collections", "OOP"],
-      "link": "https://github.com/Ramya-Kata/feedback-manager"
+      "link": "https://github.com/Ramya-Kata/Customer-Feedback-System.git"
     },
     {
       "title": "Artificial Ink - GAN for Handwritten Digit Generation",

@@ -3,7 +3,7 @@
       "company": "Wipro",
       "role": "Software Engineer",
       "duration": "Dec 2023 – Present",
-      "location": "Remote, USA",
+      "location": "NY, USA",
       "tasks": [
         "Developed scalable backend services using Spring Boot and Hibernate, reducing processing time by 30%.",
         "Implemented RESTful APIs for high-traffic systems, supporting 400K+ users with 25% faster response times.",
@@ -17,7 +17,7 @@
     {
       "company": "Accenture",
       "role": "Software Developer",
-      "duration": "Aug 2020 – Jul 2023",
+      "duration": "April 2021 – Jul 2022",
       "location": "India",
       "tasks": [
         "Built and optimized APIs using Node.js, Express.js, and GraphQL for 500K users, reducing response time by 30%.",
@@ -32,7 +32,7 @@
     {
       "company": "Accenture",
       "role": "Junior Software Developer",
-      "duration": "Aug 2020 – Jul 2021",
+      "duration": "Jan 2020 – Mar 2021",
       "location": "India",
       "tasks": [
         "Built responsive web interfaces using React.js, improving performance by 30%.",

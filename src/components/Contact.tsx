@@ -1,4 +1,4 @@
-import contactInfo from '../data/contact.json';
+import contactInfo from '../data/Contact.json';
 import { FaEnvelope, FaLinkedin, FaGithub } from 'react-icons/fa';
 import '../styles/contact.css';
 

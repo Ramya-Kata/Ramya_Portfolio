@@ -27,7 +27,7 @@
     @apply text-2xl text-blue-800 dark:text-blue-300 z-50;
   }
   
-  /* 🔥 This will absolutely show your menu in mobile */
+  
   .mobile-dropdown {
     @apply absolute top-16 right-4 
       bg-white/30 dark:bg-slate-800/30 

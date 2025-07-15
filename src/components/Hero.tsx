@@ -42,7 +42,7 @@ const Hero = () => {
           transition={{ duration: 0.8 }}
         >
           <a
-            href="/resume.pdf"
+            href="src/assets/Ramya Kata Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary"

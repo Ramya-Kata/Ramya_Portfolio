@@ -1,25 +1,31 @@
 [
+  {
+    "title": "Personal Portfolio Website",
+    "description": "Designed and built a personal portfolio website using React, Vite, TypeScript, and Tailwind CSS to showcase professional experience, skills, and projects. Implemented a JSON-driven content layer that separates data from presentation, allowing updates to be made without changing the underlying code. Developed modular and reusable components for scalability and maintainability, while applying a consistent design system with Tailwind. Deployed on Vercel to ensure fast, reliable hosting and smooth accessibility, with a structure that makes future updates and expansions simple.",
+    "techStack": ["React", "Vite", "TypeScript", "Tailwind CSS", "JSON", "Vercel"],
+    "link": "https://github.com/Ramya-Kata/Ramya_Portfolio.git"
+  },   
     {
       "title": "Customer Subscription Management System (Microservices-Based)",
-      "description": "A production-ready subscription system built with Spring Boot microservices, React dashboards, and cloud-native deployment. Features role-based access, API Gateway, RabbitMQ events, and secure, scalable architecture.",
+      "description": "Designed and developed a production-ready subscription platform using Spring Boot microservices with React dashboards. Implemented role-based access control, API Gateway, and RabbitMQ for event-driven communication. Deployed on AWS EKS with Kubernetes, enabling secure, scalable, and resilient cloud-native architecture with automated CI/CD pipelines.",
       "techStack": ["Spring Boot", "React", "RabbitMQ", "JWT", "Kubernetes", "PostgreSQL", "AWS EKS", "CI/CD"],
-      "link": "https://github.com/Ramya-Kata/Customer-Feedback-System.git"
+      "link": "https://github.com/Ramya-Kata/CustomerSubscriptionManagement.git"
     },
     {
       "title": "Customer Feedback & Management Console (Java)",
-      "description": "A multithreaded Java console app for collecting and analyzing structured customer feedback. Used JDBC for data persistence and automated exports in TXT, CSV, and JSON formats.",
+      "description": "Built a multithreaded Java console application for collecting, analyzing, and exporting structured customer feedback. Implemented JDBC-based data persistence with MySQL and added automated export capabilities to TXT, CSV, and JSON formats. Applied object-oriented design principles and optimized performance with Java Collections and concurrency.",
       "techStack": ["Java", "JDBC", "MySQL", "Multithreading", "Collections", "OOP"],
       "link": "https://github.com/Ramya-Kata/Customer-Feedback-System.git"
     },
     {
       "title": "Artificial Ink - GAN for Handwritten Digit Generation",
-      "description": "Implemented a GAN using TensorFlow and Keras to generate realistic handwritten digits. Trained on MNIST dataset with real-time visualizations and FID score evaluations.",
+      "description": "Implemented a Generative Adversarial Network (GAN) using TensorFlow and Keras to generate realistic handwritten digits. Trained the model on the MNIST dataset with real-time visualizations and performance evaluation using FID scores. Delivered interactive insights with Matplotlib for model training progress and generated outputs.",
       "techStack": ["Python", "GAN", "TensorFlow", "Keras", "Matplotlib"],
       "link": "https://github.com/Ramya-Kata/artificial-ink"
     },
     {
       "title": "Dynamic Note-Taking Web App with Node.js",
-      "description": "Built a web app for user login, registration, and note-saving using Node.js, HTML, and CSS. Achieved a 90% satisfaction rate from academic review.",
+      "description": "Developed a web application for user authentication, registration, and note management using Node.js and Express. Designed responsive UI with HTML and CSS, ensuring smooth usability and data persistence. Achieved a 90% satisfaction rate during academic evaluation, demonstrating reliability and user-friendly design.",
       "techStack": ["Node.js", "Express", "JavaScript", "HTML", "CSS"],
       "link": "https://github.com/Ramya-Kata/note-app"
     }

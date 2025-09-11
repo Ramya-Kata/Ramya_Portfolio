@@ -1,46 +1,60 @@
 [
     {
-      "company": "Wipro",
+      "company": "CapitalOne",
       "role": "Software Engineer",
       "duration": "Dec 2023 – Present",
       "location": "NY, USA",
       "tasks": [
-        "Developed scalable backend services using Spring Boot and Hibernate, reducing processing time by 30%.",
-        "Implemented RESTful APIs for high-traffic systems, supporting 400K+ users with 25% faster response times.",
-        "Refactored legacy systems and integrated Spring Security, reducing unauthorized access by 40%.",
-        "Integrated Apache Kafka for real-time data streaming, improving data speed by 20%.",
-        "Led monolith-to-microservices migration using Spring Cloud, increasing uptime by 30%.",
-        "Built Azure Kubernetes solutions with auto-scaling, cutting infrastructure costs by 25%.",
-        "Automated CI/CD with Jenkins, Docker, and Kubernetes, reducing release times by 40%."
+      "Developed cloud-native microservices with Spring Boot and Hibernate, supporting 400K+ active users and improving processing time by ~30%.",
+      "Optimized REST and GraphQL APIs, cutting response latency by ~25% and improving throughput for high-volume transactions.",
+      "Implemented WebFlux asynchronous services and Resilience4J, boosting system resilience and reducing failures during peak loads by ~30%.",
+      "Integrated Apache Kafka for real-time data streaming and event-driven workflows, enhancing scalability for payment services.",
+      "Enhanced observability with Zipkin tracing and Splunk dashboards, reducing issue diagnosis time by ~30%.",
+      "Deployed applications on AWS and Azure Kubernetes with auto-scaling, lowering infrastructure costs by ~25%.",
+      "Built and maintained front-end modules using React and Angular, ensuring responsive and consistent customer-facing experiences."
       ]
     },
     {
-      "company": "Accenture",
+      "company": "SUNY New Paltz",
+      "role": "Teaching Assistant",
+      "duration": "Jan 2023 – Dec 2023",
+      "location": "New York, USA",
+      "tasks": [
+        "Guided 50+ graduate students in Software Engineering and Database Systems through weekly labs, office hours, and project mentorship.",
+        "Designed supplemental material, live coding demos, and real-world system design exercises to reinforce classroom concepts.",
+        "Mentored student teams in building projects with Spring Boot, REST APIs, and React, enforcing coding standards and modular design.",
+        "Developed a reusable project template with Spring Boot, React, and PostgreSQL that students could extend for coursework, accelerating onboarding and ensuring consistent architecture.",
+        "Collaborated with professors to create practice assignments and mock interviews, improving student readiness for internships and technical interviews.",
+        "Delivered guest lectures on microservices, cloud deployment, and AI integrations, connecting academic learning to modern industry practices."
+      ]
+    },
+    {
+      "company": "Tata Consultancy Services",
       "role": "Software Developer",
       "duration": "April 2021 – Jul 2022",
       "location": "India",
       "tasks": [
-        "Built and optimized APIs using Node.js, Express.js, and GraphQL for 500K users, reducing response time by 30%.",
-        "Re-architected infrastructure with Docker and Kubernetes to support high-load scaling.",
-        "Improved query performance in PostgreSQL/MySQL by 35% through indexing and optimization.",
-        "Automated ETL pipelines with FastAPI and Python, reducing manual effort by 60%.",
-        "Led cloud-based deployments on AWS (Lambda, EC2, S3), increasing scalability by 40%.",
-        "Enhanced security with OAuth2 and JWT, cutting unauthorized access by 40%.",
-        "Streamlined CI/CD with Jenkins, GitHub Actions, AWS CodePipeline — 40% faster releases."
+        "Built and optimized RESTful and GraphQL APIs for telecom subscription and billing systems supporting 600K+ accounts, reducing response times by ~30%.",
+        "Re-architected core services into containerized microservices with Docker and Kubernetes, improving scalability and uptime by 35%.",
+        "Optimized PostgreSQL/MySQL queries with indexing and execution-plan tuning, boosting performance by ~35% on billing workloads.",
+        "Automated ETL pipelines using FastAPI and Python, cutting manual effort by 60% and processing millions of records daily.",
+        "Deployed subscription workflows on AWS (Lambda, EC2, S3), scaling services seamlessly during peak billing cycles.",
+        "Implemented OAuth2 and JWT-based security, strengthening access controls and reducing unauthorized access by ~40%.",
+        "Streamlined CI/CD pipelines with Jenkins, GitHub Actions, and AWS CodePipeline, reducing release times by 40%."
       ]
     },
     {
-      "company": "Accenture",
+      "company": "Vitech Systems Group",
       "role": "Junior Software Developer",
       "duration": "Jan 2020 – Mar 2021",
       "location": "India",
       "tasks": [
-        "Built responsive web interfaces using React.js, improving performance by 30%.",
-        "Developed high-performance RESTful APIs, enabling backend support for 500K+ users.",
-        "Collaborated in Agile sprints, accelerating delivery speed by 20%.",
-        "Automated workflows with Python and AWS Lambda, cutting manual work by 50%.",
-        "Scaled infrastructure on AWS (Lambda, EC2, S3), increasing service availability by 35%.",
-        "Facilitated Agile meetings and improved team velocity by 15%."
+      "Developed backend APIs with Spring Boot for a policy administration platform used by 50K+ policyholders, reducing error rates by ~15%.",
+      "Built responsive front-end dashboards with React.js, improving load times by ~25% and delivering a seamless user experience.",
+      "Implemented database integrations with MySQL, writing queries and updating schemas to support production workflows.",
+      "Enhanced application reliability by debugging and monitoring with Log4j, resolving recurring issues faster.",
+      "Automated workflows using Python and AWS Lambda, cutting manual processing by 50%.",
+      "Collaborated in Agile sprints and version control with Git, accelerating delivery speed by ~20%."
       ]
     }
   ]

@@ -23,7 +23,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          Ramya Kata
+          Ramya K
         </motion.h1>
 
         <motion.h2
@@ -42,7 +42,7 @@ const Hero = () => {
           transition={{ duration: 0.8 }}
         >
           <a
-            href="src/assets/Ramya Kata Resume.pdf"
+            href="/public/resume/Ramya_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary"

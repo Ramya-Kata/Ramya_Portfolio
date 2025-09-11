@@ -1,27 +1,186 @@
 [
     {
       "category": "Backend",
-      "skills": ["Java", "Spring Boot", "Hibernate", "Node.js", "Express.js", "FastAPI", "REST APIs"]
+      "skills": ["Java",
+      "Spring Boot",
+      "Spring Data JPA",
+      "Hibernate",
+      "Spring Cloud Gateway",
+      "Spring Eureka",
+      "Spring WebFlux",
+      "Spring Batch",
+      "Quartz Scheduler",
+      "ASP.NET Core",
+      "Node.js",
+      "Express.js",
+      "FastAPI",
+      "GraphQL",
+      "REST APIs",
+      "gRPC",
+      "WebSockets",
+      "JMS",
+      "Apache Camel",
+      "Ehcache",
+      "SOLID Principles",
+      "MVC Architecture",
+      "Microservices Architecture"]
     },
     {
       "category": "Frontend",
-      "skills": ["React.js", "TypeScript", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"]
+      "skills": ["React.js",
+      "Angular v8+",
+      "RxJS",
+      "Redux",
+      "Redux Thunk",
+      "Context API",
+      "NgRx",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Material-UI",
+      "Storybook",
+      "Webpack",
+      "Babel",
+      "Vite",
+      "ESBuild",
+      "Responsive Design",
+      "Accessibility WCAG/ARIA",
+      "Figma",
+      "Adobe XD"]
+    },
+    {
+      "category": "Mobile",
+      "skills": [
+        ".NET MAUI",
+        "Xamarin.Forms",
+        "React Native",
+        "Flutter"
+      ]
     },
     {
       "category": "Cloud & DevOps",
-      "skills": ["AWS", "Azure", "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions"]
+      "skills": ["AWS EC2",
+      "AWS RDS",
+      "AWS Lambda",
+      "AWS S3",
+      "AWS ECR",
+      "AWS SQS",
+      "AWS Step Functions",
+      "AWS CloudFormation",
+      "AWS CloudWatch",
+      "Azure AKS",
+      "Azure Functions",
+      "Azure DevOps",
+      "Google BigQuery",
+      "Google Vertex AI",
+      "Google Cloud Functions",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Jenkins",
+      "GitHub Actions",
+      "CI/CD Pipelines"]
     },
     {
       "category": "Databases",
-      "skills": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "DynamoDB"]
+      "skills": ["PostgreSQL",
+      "MySQL",
+      "SQL Server",
+      "Oracle PL/SQL",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "Pinecone"]
     },
     {
-      "category": "Testing & Performance",
-      "skills": ["JUnit", "Mockito", "Cypress", "Selenium", "Playwright", "Load Testing"]
+      "category": "Messaging & Streaming",
+      "skills": [
+        "Apache Kafka",
+        "RabbitMQ",
+        "AWS SQS",
+        "Google Pub/Sub"
+      ]
+    },
+    {
+      "category": "Testing & Quality",
+      "skills": [ "JUnit",
+      "Mockito",
+      "Jest",
+      "React Testing Library",
+      "Cypress",
+      "Playwright",
+      "Postman"]
+    },
+    {
+      "category": "Observability & Monitoring",
+      "skills": [
+        "Splunk",
+        "AWS CloudWatch",
+        "Grafana",
+        "Prometheus"
+      ]
+    },
+    {
+      "category": "Security",
+      "skills": [
+        "Spring Security",
+        "OAuth2",
+        "JWT",
+        "TLS/SSL",
+        "bcrypt",
+        "PBKDF2",
+        "SonarQube",
+        "OWASP Dependency Check"
+      ]
+    },
+    {
+      "category": "AI / ML / GenAI",
+      "skills": [
+        "Retrieval-Augmented Generation (RAG)",
+        "LangChain",
+        "LlamaIndex",
+        "OpenAI APIs",
+        "Hugging Face Transformers",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Keras",
+        "AWS SageMaker",
+        "Google Vertex AI",
+        "Azure Machine Learning",
+        "Pinecone",
+        "FAISS"
+      ]
+    },
+    {
+      "category": "AI Testing & Evaluation",
+      "skills": [
+        "LangSmith",
+        "Evidently AI",
+        "Weights & Biases"
+      ]
     },
     {
       "category": "Tools & Workflow",
-      "skills": ["Git", "Maven", "Linux/Unix", "JIRA", "Agile", "CI/CD"]
+      "skills": ["Git",
+      "Maven",
+      "Gradle",
+      "npm",
+      "yarn",
+      "Linux/Unix",
+      "JIRA",
+      "Confluence",
+      "Agile Scrum",
+      "VS Code",
+      "IntelliJ IDEA",
+      "Visual Studio",
+      "Android Studio",
+      "Swagger",
+      "OpenAPI"]
     }
   ]
   

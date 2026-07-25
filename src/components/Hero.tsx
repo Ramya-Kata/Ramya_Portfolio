@@ -42,7 +42,7 @@ const Hero = () => {
           transition={{ duration: 0.8 }}
         >
           <a
-            href={`${import.meta.env.BASE_URL}resume/Ramya_Resume.pdf`}
+            href={`${import.meta.env.BASE_URL}resume/Ramya_Kata_Software_Engineer.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary"

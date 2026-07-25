@@ -1,8 +1,37 @@
 [
     {
+      "company": "State of Ohio",
+      "role": "Software Developer",
+      "duration": "May 2026 - Present",
+      "location": "Remote",
+      "tasks": [
+        "Collaborate with stakeholders, product owners, business analysts, and architects to translate public-sector workflows into technical designs and implementation plans.",
+        "Design accessible, responsive experiences in Figma and develop reusable interfaces using Angular, Svelte, TypeScript, HTML, and CSS.",
+        "Build and integrate RESTful services using .NET and C#, including validation, exception handling, API documentation, and unit testing.",
+        "Develop reusable UI components and shared libraries while implementing JWT authentication, claims-based authorization, and role-based access control.",
+        "Built an AI-assisted document-processing microservice using Python, FastAPI, Azure AI Document Intelligence, and Azure AI Language to detect and redact personally identifiable information.",
+        "Contribute to code reviews, testing, defect resolution, technical documentation, estimation, and release planning within an Agile team."
+      ]
+    },
+    {
+      "company": "New York State Insurance Fund (NYSIF)",
+      "role": "Software Engineer",
+      "duration": "Feb 2025 - May 2026",
+      "location": "Remote",
+      "tasks": [
+        "Developed backend services for policy administration and claims-processing workflows using Java 11, Spring Boot, Kotlin, and PostgreSQL.",
+        "Designed microservice boundaries and REST API contracts to support independently deployable insurance-processing capabilities.",
+        "Built event-driven workflows using GCP Pub/Sub for asynchronous processing of policy and claims events.",
+        "Containerized and deployed services using Docker, Cloud Run, and GKE, integrating Cloud SQL and Cloud Storage for application data and document management.",
+        "Implemented API security using Azure AD, Spring Security, OAuth 2.0, JWT, and role-based access control.",
+        "Automated build and deployment workflows using GitHub Actions and implemented centralized observability with GCP Cloud Logging and Cloud Monitoring.",
+        "Developed ML-backed risk-scoring capabilities using Vertex AI and established repeatable model training and deployment workflows with Vertex AI Workbench and Vertex AI Pipelines."
+      ]
+    },
+    {
       "company": "CapitalOne",
       "role": "Software Engineer",
-      "duration": "Dec 2023 – Present",
+      "duration": "Jan 2024 – Jan 2025",
       "location": "NY, USA",
       "tasks": [
       "Developed cloud-native microservices with Spring Boot and Hibernate, supporting 400K+ active users and improving processing time by ~30%.",
@@ -31,7 +60,7 @@
     {
       "company": "Tata Consultancy Services",
       "role": "Software Developer",
-      "duration": "April 2021 – Jul 2022",
+      "duration": "May 2021 – Jul 2022",
       "location": "India",
       "tasks": [
         "Built and optimized RESTful and GraphQL APIs for telecom subscription and billing systems supporting 600K+ accounts, reducing response times by ~30%.",

@@ -31,7 +31,7 @@
     {
       "company": "CapitalOne",
       "role": "Software Engineer",
-      "duration": "Jan 2024 – Jan 2025",
+      "duration": "June 2024 – Jan 2025",
       "location": "NY, USA",
       "tasks": [
       "Developed cloud-native microservices with Spring Boot and Hibernate, supporting 400K+ active users and improving processing time by ~30%.",
